@@ -1,0 +1,9 @@
+*.png
+*.exe
+*.o
+.idea/
+*.a
+*.so
+*.jfif
+*.jpg
+*.jpeg
